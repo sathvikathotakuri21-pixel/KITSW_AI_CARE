@@ -1,0 +1,2 @@
+complaint_id,created_at,name,roll_number,email,phone,problem_area,location,description,priority,department,assigned_authority,authority_contact,status,remarks,updated_at,expected_resolution_at
+KAC-20260930-80B26D,2026-09-30 14:59:01,sathvika,82,sathvikathotakuri21@gmail.com,1234,Canteen Demand,near to block 7,food cost is too high,Medium,Hostel & Canteen Administration,Canteen Manager,canteen@kitsw.ac.in,Assigned,Complaint registered and automatically assigned.,2026-09-30 14:59:01,2026-10-04 14:59:01
